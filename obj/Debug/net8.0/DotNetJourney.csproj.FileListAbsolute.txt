@@ -7,6 +7,7 @@ E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Applicat
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.AssemblyInfoInputs.cache
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.AssemblyInfo.cs
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.csproj.CoreCompileInputs.cache
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.sourcelink.json
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.dll
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\refint\DotNetJourney.dll
 E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.pdb

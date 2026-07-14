@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetJourney")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98198e78e1b4e1a1049bad87c59161f36431896a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetJourney")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetJourney")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
