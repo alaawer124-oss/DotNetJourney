@@ -1,0 +1,14 @@
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\bin\Debug\net8.0\DotNetJourney.exe
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\bin\Debug\net8.0\DotNetJourney.deps.json
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\bin\Debug\net8.0\DotNetJourney.runtimeconfig.json
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\bin\Debug\net8.0\DotNetJourney.dll
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\bin\Debug\net8.0\DotNetJourney.pdb
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.AssemblyInfoInputs.cache
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.AssemblyInfo.cs
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.csproj.CoreCompileInputs.cache
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.dll
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\refint\DotNetJourney.dll
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.pdb
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\DotNetJourney.genruntimeconfig.cache
+E:\Hamdy\INSTANT\Round 37\Sat-Tue\Session_09_CSharp_GitHub_First_Commit\Application\DotNetJourney\obj\Debug\net8.0\ref\DotNetJourney.dll
