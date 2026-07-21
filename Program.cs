@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // SESSION 09 - TODO GUIDE - built live in class, never pre-typed.
 // This file intentionally contains ONLY TODO comments. Every real line of code is
 // typed live by the instructor, following the Student Guide / Instructor Guide.
@@ -6,6 +7,9 @@
 // (Rule 30 - Explicit Program Class & Main Entry Point - No Top-Level Statements:
 //  every TODO below lives INSIDE Main, in the exact position the real code will
 //  occupy, never floating above the namespace/class as if it were top-level.)
+=======
+
+>>>>>>> 860eaac (Add files via upload)
 
 using System;
 
@@ -15,6 +19,7 @@ namespace DotNetJourney
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             // TODO 1 (Block 3 - Hello World)
             //Console.WriteLine("Hello, World!");
 
@@ -164,3 +169,31 @@ namespace DotNetJourney
     }
 }
 // Test 21-07-2026
+=======
+            Console.WriteLine("=== Personal Info Collector ===");
+            Console.Write("Enter your name: ");
+            var collectedName = Console.ReadLine();
+
+            Console.Write("Enter your Age: ");
+            var collectedAge = Console.ReadLine();
+
+            Console.Write("Enter your Favorite Color: ");
+            var collectedColor = Console.ReadLine();
+
+            Console.Write("Are you a student? (yes/no): ");
+            var collectedIsStudent = Console.ReadLine();
+
+            Console.Write("What is your favorite programming language? ");
+            var collectedProgrammingLanguage = Console.ReadLine();
+
+            Console.WriteLine("\n=== Summary ===");
+            Console.WriteLine("Your Data");
+            Console.WriteLine($"Name is {collectedName}");
+            Console.WriteLine($"Age is {collectedAge}");
+            Console.WriteLine($"Favorite Color is {collectedColor}");
+            Console.WriteLine($"Is Student? {collectedIsStudent}");
+            Console.WriteLine($"Favorite Programming Language is {collectedProgrammingLanguage}");
+        }
+    }
+}
+>>>>>>> 860eaac (Add files via upload)
